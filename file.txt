@@ -1,2 +1,9 @@
 Commit A content
+<<<<<<< HEAD
 Commit E content
+=======
+Commit B content
+Commit C content
+Commit D content
+>>>>>>> cool-new-feature
+Commit F content
