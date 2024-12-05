@@ -7,3 +7,4 @@ Commit C content
 Commit D content
 >>>>>>> cool-new-feature
 Commit F content
+Commit G content
